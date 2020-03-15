@@ -1,0 +1,36 @@
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+
+}
+h1{
+	text-align: center;
+}
+img{
+	width: 350px;
+	height: 250px;
+	margin: 10px;
+	transition: all 0.5s;
+}
+img:hover{
+	transform:scale(1.1);
+}
+body{
+
+
+	background-image: url(12.jpg);
+
+}
+h2{
+	color:rgba(0,256,0);
+}
+nav{
+	color: red;
+}
+form{
+	color: =red;
+}
+
+
+
